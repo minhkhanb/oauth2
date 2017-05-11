@@ -12,7 +12,7 @@ To run the sample, download this directory into `logonoff` and run:
 virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
-
+pip install -U werkzeug
 python app.py
 
 ```
