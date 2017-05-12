@@ -8,7 +8,7 @@ client-side JavaScript apps. You can read it at
 To run the sample, download this directory into `logonoff` and run:
 
 ```bash
-
+pip install virtualenv
 virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
